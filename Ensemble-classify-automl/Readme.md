@@ -8,4 +8,5 @@ I trained svm,rf and automl model from spectral123.csv and segregated vegetation
 
 i explained how code works in my code
 
-i also attached video recording as the  code runs long time i recorded few minutes before output came
+i also attached video recording link as the  code runs long time i recorded few minutes before output came
+https://drive.google.com/drive/folders/17zoXxm6ERa7mFb23aKu8iEb48Is2BMD-?usp=sharing
